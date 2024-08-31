@@ -1,0 +1,72 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Charminar</title>
+    <link rel="stylesheet" href="charminar.css">
+</head>
+<body>
+    <header class="imp">
+        <div>
+            <img src="./logo2 (2).png" alt="Company Logo" class="logo">
+        </div>
+        <div class="header-content">
+            <h1>Welcome to Easeeguide</h1>
+        </div>
+    </header>
+
+    <nav>
+        <a href="#history">History of the Place</a>
+        <a href="#best-time-to-visit">Best Time to Visit</a>
+        <a href="#nearby-places">Nearby Places to Visit</a>
+        <a href="#travel-routes">Travel Routes</a>
+    </nav>
+
+    <div class="container">
+        <section id="history">
+            <div class="section-title">History of the Place</div>
+            <div class="section-content">
+                <p>Charminar, an iconic monument located in the heart of Hyderabad, was built in 1591 by Muhammad Quli Qutb Shah, the 5th ruler of the Qutb Shahi dynasty. It was constructed to commemorate the founding of Hyderabad and as a symbol of the eradication of a plague that had devastated the city. The Charminar stands at the intersection of the historical trade routes that connected the Golconda Kingdom to other regions, making it a significant cultural and commercial hub during its time. The structure is renowned for its Indo-Islamic architecture, with each of its four grand arches facing the cardinal directions and topped with four soaring minarets.</p>
+                <img src="https://th.bing.com/th/id/OIP._wcJ9CMsQsofd7ZCa2lZAwHaE0?w=287&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Charminar History" class="section-image">
+            </div>
+        </section>
+
+        <section id="best-time-to-visit">
+            <div class="section-title">Best Time to Visit</div>
+            <div class="section-content">
+                <p>The best time to visit Charminar is from November to February. During these months, the weather in Hyderabad is cooler and more pleasant, making it ideal for exploring this historical monument.</p>
+            </div>
+        </section>
+
+        <section id="nearby-places">
+            <div class="section-title">Nearby Places to Visit</div>
+            <div class="section-content">
+                
+                <ul>
+                    <li><strong>Mecca Masjid:</strong> Located just a few steps away from Charminar, Mecca Masjid is one of the largest mosques in India, known for its stunning architecture and historical significance.</li>
+                    <li><strong>Chowmahalla Palace:</strong> A grand palace complex that was once the seat of the Asaf Jahi dynasty, it’s a must-visit for its royal architecture and beautiful gardens.</li>
+                    <li><strong>Laad Bazaar:</strong> A bustling market near Charminar, famous for its traditional bangles, jewelry, and vibrant textiles.</li>
+                    <li><strong>Salar Jung Museum:</strong> Located about 3 km from Charminar, this museum houses one of the largest collections of art, artifacts, and antiques in the world.</li>
+                    <li><strong>Golconda Fort:</strong> Approximately 11 km away, this historic fort is renowned for its impressive architecture and the fascinating history of the Qutb Shahi dynasty.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="travel-routes">
+            <div class="section-title">Travel Routes</div>
+            <div class="section-content">
+                <p>To reach Charminar, you can take the following routes:</p>
+                <ul>
+                    <li>From Hyderabad Airport: Take a cab or bus towards the old city, approximately 20 km away.</li>
+                    <li>From Secunderabad Railway Station: Charminar is around 7 km away; you can take an auto-rickshaw or a bus.</li>
+                    <li>From Hyderabad Bus Stand: Various local buses and autos are available to reach Charminar, which is about 5 km from the bus stand.</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Shiva Karthik. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
